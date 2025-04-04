@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on : **AI/ML Projects**
 
-- ⚡ Fun fact **I'm just a night owl trying to debug the universe, one line of code at a time**
+- ⚡ Fun fact : **I'm just a night owl trying to debug the universe, one line of code at a time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
