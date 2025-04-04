@@ -1,12 +1,24 @@
 <h3 align="center">🚀 "AI Developer | Expert in ML, Deep Learning & Scalable Software Systems | Innovator in Intelligent Applications"</h3>
 
-- 🔭 I’m currently working on : **AI & Automation to Transform Every Field Through Intelligent, Scalable Solutions.**
+- 🔭 I’m currently working on :
+  
+  **AI & Automation to Transform Every Field Through Intelligent, Scalable Solutions.**
 
-- 🌱 I’m currently learning : **🧠 Learning Blockchain(Web3),HFT,Data Science, cloud & Beyond.**
+- 🌱 I’m currently learning :
 
-- 👯 I’m looking to collaborate on : **AI/ML Projects**
+   **🧠 Learning Blockchain(Web3),HFT,Data Science, cloud & Beyond.**
 
-- ⚡ Fun fact : **I'm just a night owl trying to debug the universe, one line of code at a time**
+- 👯 I’m looking to collaborate on :
+  
+  **AI/ML Projects**
+
+- 💬 Ask me about :
+  
+  **I'm always excited to discuss and explore new ideas! Feel free to reach out or drop an issue on one of my projects. 🚀**
+
+- ⚡ Fun fact :
+
+  **I'm just a night owl trying to debug the universe, one line of code at a time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
