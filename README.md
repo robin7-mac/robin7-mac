@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning :
 
-   **🧠 Learning Blockchain(Web3),HFT,Data Science, cloud & Beyond.**
+  **🧠 Learning Blockchain(Web3),HFT,Data Science, cloud & Beyond.**
 
 - 👯 I’m looking to collaborate on :
   
-  **AI/ML Projects**
+  **I'm always excited to discuss and explore new ideas! Feel free to reach out or drop an issue on one of my projects. 🚀 .**
 
 - 💬 Ask me about :
   
