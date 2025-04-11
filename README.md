@@ -30,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robin7-mac&show_icons=true&locale=en&layout=compact"  /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robin7-mac&show_icons=true&locale=en" alt="robin7-mac" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robin7-mac&show_icons=true&locale=en" " /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robin7-mac&" alt="robin7-mac" /></p>
