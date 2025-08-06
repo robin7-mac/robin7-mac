@@ -14,7 +14,7 @@
 
 - 💬 Ask me about :
   
-  **Artificial Intelligence Developer | Machine Learning | Deep Learning | Natural Language Processing | Robotics | Expert Systems | Computer Vision | Speech Recognition | Generative AI | Big Data Technology**
+  **Artificial Intelligence | Machine Learning | Deep Learning | Natural Language Processing | Robotics | Expert Systems | Computer Vision | Speech Recognition | Generative AI | Big Data Technology**
 
 - ⚡ Fun fact :
 
