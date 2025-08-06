@@ -14,7 +14,7 @@
 
 - 💬 Ask me about :
   
-  **I'm always excited to discuss and explore new ideas! Feel free to reach out or drop an issue on one of my projects. 🚀**
+  **Artificial Intelligence Developer | Machine Learning | Deep Learning | Natural Language Processing | Robotics | Expert Systems | Computer Vision | Speech Recognition | Generative AI | Big Data Technology**
 
 - ⚡ Fun fact :
 
